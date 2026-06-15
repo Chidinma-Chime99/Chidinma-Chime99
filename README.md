@@ -31,7 +31,7 @@ I enjoy working with data to solve real-world problems and support decision-maki
 ---
 
 ## 📫 Contact
-- LinkedIn: (add link here)
+- LinkedIn: (https://www.linkedin.com/in/chidinma-chime-67983a379?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - Email: (chidinma.s.chime@gmail.com)
 
 ---
