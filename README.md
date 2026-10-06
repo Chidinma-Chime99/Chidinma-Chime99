@@ -10,22 +10,25 @@ I enjoy working with data to solve real-world problems and support decision-maki
 ## 🛠 Skills
 - Microsoft Excel (Advanced)
 - Data Cleaning & Transformation
-- Pivot Tables & Pivot Charts
+- Microsoft Power BI 
 - Dashboard Design
 - Data Visualization
-- Basic SQL
+- SQL Server Management Studio 
 
 ---
 
 ## 📊 Projects
 - HR Attrition Analysis Dashboard (Excel)
-- More projects coming soon...
+- Healthcare Performance Analysis (SSMS and Excel)
+- Retail Performance Analysis (Microsoft Power BI)
+
 
 ---
 
 ## 📈 Tools I Use
 - Microsoft Excel
-- SQL (beginner stage)
+- SQL
+- Microsoft Power BI 
 - PowerPoint & Word for reporting
 
 ---
