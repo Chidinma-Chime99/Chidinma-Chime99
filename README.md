@@ -21,6 +21,7 @@ I enjoy working with data to solve real-world problems and support decision-maki
 - HR Attrition Analysis Dashboard (Excel)
 - Healthcare Performance Analysis (SSMS and Excel)
 - Retail Performance Analysis (Microsoft Power BI)
+- Retail Business Intelligence Analysis (Microsoft Power BI)
 
 
 ---
